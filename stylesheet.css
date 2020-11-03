@@ -23,9 +23,10 @@ body {
 }
 
 main {
-    margin: 0px 200px 0 200px;
+    width: 80vw;
+    margin: auto;
 }
-img.alt {
+figure, img.alt {
     float: right;
     border-radius: 50%;
     margin-left: 10px;
@@ -33,6 +34,7 @@ img.alt {
     box-shadow: grey 10px 10px 10px;
     height: 300px;
 }
+
 img.main {
     width: 100%;
 }
